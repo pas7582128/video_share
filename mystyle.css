@@ -1,0 +1,17 @@
+#livesearchbox{
+	position: absolute;
+	list-style-type:  none;
+	background-color: white;
+	z-index: auto;
+}
+
+.search-form{
+	position: relative;
+}
+
+.search_item{
+	text-decoration: none;
+	color: black;
+
+}
+
